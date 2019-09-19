@@ -203,7 +203,7 @@ This library is shipped as an all-in-one module implementation with minimalistic
 You can also clone it into your project directory from [ccxt GitHub repository](https://github.com/ccxt/ccxt):
 
 ```shell
-git clone https://github.com/ccxt/ccxt.git
+git clone https://github.com/t4n6a1ka/ccxt.git
 ```
 
 ### JavaScript (NPM)
